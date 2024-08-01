@@ -45,6 +45,7 @@ qr-container{ {
   width: min-content;
   height: min-content;
 }
+```
 ![image](https://github.com/user-attachments/assets/bb0a4aab-3a33-4c80-8cb7-09e1e05d8edb)
 
 ### Useful resources
