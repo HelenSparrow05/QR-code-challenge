@@ -40,7 +40,7 @@ First easy challenge from www.frontendmentor.io.
 min-content - ensures that an element will never be smaller than the content inside it
 max content- ensures that element will never be larger than its container
 */
-qr-container{
+qr-container{ {
   width: min-content;
   height: min-content;
 }
@@ -50,5 +50,4 @@ qr-container{
 ### Useful resources
 
 - [web.dev](https://web.dev/learn/css/) - Great podcast helped me to refresh my old knowledge.
-
 
