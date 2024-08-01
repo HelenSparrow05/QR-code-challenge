@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -41,7 +40,7 @@ First easy challenge from www.frontendmentor.io.
 min-content - ensures that an element will never be smaller than the content inside it
 max content- ensures that element will never be larger than its container
 */
-qr-container{ {
+qr-container{
   width: min-content;
   height: min-content;
 }
@@ -52,7 +51,4 @@ qr-container{ {
 
 - [web.dev](https://web.dev/learn/css/) - Great podcast helped me to refresh my old knowledge.
 
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
