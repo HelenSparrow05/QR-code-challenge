@@ -52,7 +52,3 @@ qr-container{ {
 
 - [web.dev](https://web.dev/learn/css/) - Great podcast helped me to refresh my old knowledge.
 
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
